@@ -33,3 +33,12 @@ A Python automation tool that scrapes job listings from Internshala, filters the
 
 ```bash
 pip install selenium
+```
+
+## 📸 Demo
+
+### 🔹 Filtered Results (Terminal)
+![Terminal](terminal_demo.png)
+
+### 🔹 Exported CSV Output
+![CSV Output](output.png)
